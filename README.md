@@ -1,2 +1,2 @@
 # Apriori
-Implementação do algoritmo Apriori (IA) para sistemas de recomendação de filmes.
+Implementação do algoritmo de inteligencia artificial Apriori para uso sistemas de recomendação de filmes.
